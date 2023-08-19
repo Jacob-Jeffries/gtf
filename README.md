@@ -12,13 +12,13 @@ Humanity is growing out of its adolescence and is beginning to more fully unders
     * Ignorance is in opposition to knowledge.
 * Human Beings are triumvirate entities, composed of a mental, physical, and emotional component.
 * These components produce 6 motivations.
-    * Physical: Obtaining basic needs allowing for leisure
-    * Physical: Procreation
-    * Emotional / Physical: Consensual Touch
-    * Emotional: Recognition and admiration by one's peer for one's creative expression
-    * Mental: Gathering of Knowledge to the satisfaction of rational logic
-    * Mental / Emotional: Satisfaction of one's Morality     
-* Human beings are enriched upon satisfaction of the 7 motivations. 
+    1. Physical: Obtaining basic needs allowing for leisure
+    2. Physical: Procreation
+    3. Emotional / Physical: Consensual Touch
+    4. Emotional: Recognition and admiration by one's peer for one's creative expression
+    5. Mental: Gathering of Knowledge to the satisfaction of rational logic
+    6. Mental / Emotional: Satisfaction of one's Morality     
+* Human beings are enriched upon satisfaction of the 6 motivations. 
 * The betterment and maturity of Humanity, stems from individuals applying knowledge to enrich others.
 * It is Good to better Humanity; this is Morality.
 * It is Right to follow institutional guidelines that facilitate the betterment of Humanity; these are Ethics.

@@ -15,7 +15,7 @@ Humanity is growing out of its adolescence and is beginning to more fully unders
     * Physical: Obtaining basic needs allowing for leisure
     * Physical: Procreation
     * Emotional / Physical: Consensual Touch
-    * Emotional: Recognition and admiration from one's of personal expression
+    * Emotional: Recognition and admiration by one's peer for one's creative expression
     * Mental: Gathering of Knowledge to the satisfaction of rational logic
     * Mental / Emotional: Satisfaction of one's Morality     
 * Human beings are enriched upon satisfaction of the 7 motivations. 

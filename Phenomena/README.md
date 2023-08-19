@@ -1,5 +1,5 @@
 # Phenomena
 
-Use this folder to present and address phenomena (unexplained and studied), and begin the gathering of knowledge. 
+Use this folder to present and address phenomena (unexplained and studied), to further gathering of Knowledge.
 
 ## Guidelines
